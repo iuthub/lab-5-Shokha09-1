@@ -1,0 +1,5 @@
+sh sh sh;MA;1234567;visa
+Shakhidi Shohrukh;MA;808021259898;masterCard
+Atakulov Timur;MH;2020212122222323;visa
+Mukumov Nodirbek;MA;026003600460;masterCard
+Raxmatjonov Xurshed;MA;1999119633368;visa
